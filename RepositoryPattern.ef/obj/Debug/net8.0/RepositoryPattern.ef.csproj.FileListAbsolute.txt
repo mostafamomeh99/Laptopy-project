@@ -1,0 +1,34 @@
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\RepositoryPattern.ef.deps.json
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\RepositoryPattern.ef.runtimeconfig.json
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\RepositoryPattern.ef.dll
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\RepositoryPattern.ef.pdb
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.csproj.AssemblyReference.cache
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.GeneratedMSBuildEditorConfig.editorconfig
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.AssemblyInfoInputs.cache
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.AssemblyInfo.cs
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.csproj.CoreCompileInputs.cache
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.dll
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\refint\RepositoryPattern.ef.dll
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.pdb
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.genruntimeconfig.cache
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\ref\RepositoryPattern.ef.dll
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\Repositorypattern.core.pdb
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\Reposito.8D94CA52.Up2Date
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.csproj.AssemblyReference.cache
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.GeneratedMSBuildEditorConfig.editorconfig
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.AssemblyInfoInputs.cache
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.AssemblyInfo.cs
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.csproj.CoreCompileInputs.cache
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\refint\RepositoryPattern.ef.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.pdb
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\RepositoryPattern.ef.deps.json
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\RepositoryPattern.ef.runtimeconfig.json
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\RepositoryPattern.ef.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\RepositoryPattern.ef.pdb
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\bin\Debug\net8.0\Repositorypattern.core.pdb
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\Reposito.8D94CA52.Up2Date
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\RepositoryPattern.ef.genruntimeconfig.cache
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\RepositoryPattern.ef\obj\Debug\net8.0\ref\RepositoryPattern.ef.dll

@@ -1,0 +1,23 @@
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\bin\Debug\net8.0\Repositorypattern.core.deps.json
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\bin\Debug\net8.0\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\bin\Debug\net8.0\Repositorypattern.core.pdb
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.GeneratedMSBuildEditorConfig.editorconfig
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.AssemblyInfoInputs.cache
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.AssemblyInfo.cs
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.csproj.CoreCompileInputs.cache
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\obj\Debug\net8.0\refint\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.pdb
+G:\mostafa  momeh\web development\back-end\.net playlist\repository pattern\ClassLibrary1\obj\Debug\net8.0\ref\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\bin\Debug\net8.0\Repositorypattern.core.deps.json
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\bin\Debug\net8.0\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\bin\Debug\net8.0\Repositorypattern.core.pdb
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.GeneratedMSBuildEditorConfig.editorconfig
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.AssemblyInfoInputs.cache
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.AssemblyInfo.cs
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.csproj.CoreCompileInputs.cache
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\refint\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.pdb
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\ref\Repositorypattern.core.dll
+G:\mostafa  momeh\web development\back-end\tasks\asp .net api\repository pattern\ClassLibrary1\obj\Debug\net8.0\Repositorypattern.core.csproj.AssemblyReference.cache
